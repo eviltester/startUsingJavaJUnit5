@@ -15,7 +15,7 @@ public class MyFirstTest {
     @Test
     public void checkThatCodeCoverageReportWorks(){
         Assertions.
-            assertEquals(5, MyFirstClass.add(1, 3),
+            assertEquals(4, MyFirstClass.add(1, 3),
                 "this test should generate code coverage");
     }
 }

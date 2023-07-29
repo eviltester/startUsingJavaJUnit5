@@ -1,6 +1,6 @@
 # Start Using Java JUnit5
 
-![build status](https://github.com/eviltester/startUsingJavaJUnit5/actions/workflows/build.yml/badge.svg)
+[![build status](https://github.com/eviltester/startUsingJavaJUnit5/actions/workflows/build.yml/badge.svg)](https://github.com/eviltester/startUsingJavaJUnit5/actions)
 
 Basic setup for an up to date java maven project with Junit 5.
 
